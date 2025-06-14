@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nome": "Maria Atualizada 2",
+      "id": "d666"
+    },
+    {
+      "id": "0309",
+      "nome": "Maria Loura"
+    }
+  ],
+  "equipamentos": [
+    {
+      "nome": "Notebook Dell Atualizado 2",
+      "id": "8c4b"
+    },
+    {
+      "id": "dc0d",
+      "nome": "Notebook HP",
+      "tipo": "Notebook"
+    }
+  ],
+  "servicos": [
+    {
+      "nome": "Reparo de Tela Atualizado 2",
+      "id": "964c"
+    },
+    {
+      "id": "d1df",
+      "nome": "Reparo de Tela",
+      "descricao": "Troca da tela do notebook"
+    }
+  ]
+}
