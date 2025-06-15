@@ -19,5 +19,5 @@ const router = createRouter({
 })
 
 export default router
-
+// Semana 5 - Commit 2: Definição das rotas principais com Vue Router (index.js)
 
