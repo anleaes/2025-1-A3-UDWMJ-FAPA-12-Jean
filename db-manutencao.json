@@ -9,6 +9,7 @@
       "nome": "Maria Loura"
     }
   ],
+  
   "equipamentos": [
     {
       "nome": "Notebook Dell Atualizado 2",
@@ -20,6 +21,7 @@
       "tipo": "Notebook"
     }
   ],
+
   "servicos": [
     {
       "nome": "Reparo de Tela Atualizado 2",
