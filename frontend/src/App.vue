@@ -35,4 +35,4 @@ nav a.router-link-exact-active {
   color: #42b983;
 }
 </style>
-
+<!--Semana 4 - Commit 2: Estrutura base da aplicação e roteamento via App.vue-->
