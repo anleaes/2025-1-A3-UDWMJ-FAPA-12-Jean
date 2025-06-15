@@ -41,5 +41,5 @@ input {
   padding: 8px;
 }
 </style>
-
+<!--Semana 1 - Commit 1: Criada tela de login com inputs de usuário e senha-->
 
