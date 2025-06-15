@@ -61,4 +61,5 @@ export default {
   }
 }
 </script>
+<!--Semana 3 - Commit 1: Tela de Clientes implementada com listagem, adição e edição de clientes-->
 
