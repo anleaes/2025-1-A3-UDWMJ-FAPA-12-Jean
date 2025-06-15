@@ -17,4 +17,4 @@ export default {
   margin-top: 50px;
 }
 </style>
-
+<!--Semana 1 - Commit 2: Página inicial com mensagem de boas-vindas-->
