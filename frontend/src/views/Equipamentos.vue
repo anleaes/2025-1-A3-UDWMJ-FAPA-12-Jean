@@ -67,3 +67,4 @@ export default {
 }
 </script>
 
+<!--Semana 2 - Commit 1: Tela de equipamentos com formulário de cadastro-->
