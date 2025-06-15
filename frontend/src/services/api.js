@@ -21,4 +21,5 @@ export const fetchServicos  = () => api.get('/servicos')
 export const createServico  = s => api.post('/servicos', s)
 export const updateServico  = (id, s) => api.put(`/servicos/${id}`, s)
 export const deleteServico  = id => api.delete(`/servicos/${id}`)
+// Semana 5 - Commit 1: Criação do módulo api.js para comunicação com backend
 
